@@ -1,0 +1,288 @@
+{
+  "version": 1,
+  "base_track": "A Cloudy Sky",
+  "base_artist": "DOES",
+  "createdAt": "2026-02-16T17:15:08.004870Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "曇天 - A Cloudy Sky",
+      "artist": "DOES",
+      "has_synced": true,
+      "path": "select/01_曇天_-_A_Cloudy_Sky_DOES.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Cloudy Sky",
+      "artist": "Does",
+      "has_synced": false,
+      "path": "select/02_A_Cloudy_Sky_Does.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A Cloudy Sky - From THE FIRST TAKE",
+      "artist": "Does",
+      "has_synced": false,
+      "path": "select/03_A_Cloudy_Sky_-_From_THE_FIRST_TAKE_Does.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Sky Full of Stars",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/04_A_Sky_Full_of_Stars_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Sky Full of Stars",
+      "artist": "The Cooltrane Quartet",
+      "has_synced": false,
+      "path": "select/05_A_Sky_Full_of_Stars_The_Cooltrane_Quartet.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Sky Full of Stars",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/06_A_Sky_Full_of_Stars_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Sky Full Of Stars - Radio Edit",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/07_A_Sky_Full_Of_Stars_-_Radio_Edit_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "A Sky for Shoeing Horses Under",
+      "artist": "WHY?",
+      "has_synced": true,
+      "path": "select/08_A_Sky_for_Shoeing_Horses_Under_WHY.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A Sky Full of Stars",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/09_A_Sky_Full_of_Stars_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A Sky Full of Stars",
+      "artist": "Taron Egerton",
+      "has_synced": true,
+      "path": "select/10_A_Sky_Full_of_Stars_Taron_Egerton.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "A Sky Full Of Stars",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/11_A_Sky_Full_Of_Stars_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "A Sky Full of Stars (instrumental)",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/12_A_Sky_Full_of_Stars_(instrumental)_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "A Sky Full Of Stars",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/13_A_Sky_Full_Of_Stars_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "A Sky Full of Stars - Live in Buenos Aires",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/14_A_Sky_Full_of_Stars_-_Live_in_Buenos_Aires_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "A Sky Full of Stars - Live at the Royal Albert Hall, London",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/15_A_Sky_Full_of_Stars_-_Live_at_the_Royal_Albert_Hall,_London_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "A Sky Full Of Stars",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/16_A_Sky_Full_Of_Stars_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "A Sky Full Of Stars",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/17_A_Sky_Full_Of_Stars_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Cloudy Sky",
+      "artist": "The Cardigans",
+      "has_synced": true,
+      "path": "select/18_Cloudy_Sky_The_Cardigans.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Cloudy Sky",
+      "artist": "The Cardigans",
+      "has_synced": false,
+      "path": "select/19_Cloudy_Sky_The_Cardigans.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Cloudy Sky",
+      "artist": "Bobby Bare",
+      "has_synced": true,
+      "path": "select/20_Cloudy_Sky_Bobby_Bare.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Cloudy Sky",
+      "artist": "The Cardigans",
+      "has_synced": false,
+      "path": "select/21_Cloudy_Sky_The_Cardigans.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Cloudy Sky",
+      "artist": "Polo G",
+      "has_synced": false,
+      "path": "select/22_Cloudy_Sky_Polo_G.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Cloudy Sky",
+      "artist": "Shel Silverstein",
+      "has_synced": false,
+      "path": "select/23_Cloudy_Sky_Shel_Silverstein.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Cloudy_sky..n",
+      "artist": "Cardigans",
+      "has_synced": true,
+      "path": "select/24_Cloudy_sky..n_Cardigans.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Cloudy Sky",
+      "artist": "Cardigans",
+      "has_synced": true,
+      "path": "select/25_Cloudy_Sky_Cardigans.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "The Color of a Cloudy Day",
+      "artist": "Shelby Lynne",
+      "has_synced": false,
+      "path": "select/26_The_Color_of_a_Cloudy_Day_Shelby_Lynne.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "The Color of a Cloudy Day",
+      "artist": "Shelby Lynne & Allison Moorer",
+      "has_synced": false,
+      "path": "select/27_The_Color_of_a_Cloudy_Day_Shelby_Lynne_&_Allison_Moorer.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "The Color of a Cloudy Day",
+      "artist": "Lynne, Shelby & Moorer, Allison",
+      "has_synced": false,
+      "path": "select/28_The_Color_of_a_Cloudy_Day_Lynne,_Shelby_&_Moorer,_Allison.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "During A Cloudy Day",
+      "artist": "Tez Cadey",
+      "has_synced": true,
+      "path": "select/29_During_A_Cloudy_Day_Tez_Cadey.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Walking In A Cloudy",
+      "artist": "WHITE ASH",
+      "has_synced": false,
+      "path": "select/30_Walking_In_A_Cloudy_WHITE_ASH.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "I am a cloudy girl",
+      "artist": "佐藤聡美",
+      "has_synced": true,
+      "path": "select/31_I_am_a_cloudy_girl_佐藤聡美.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "SCOPOPHOBIA (A Cloudy SMP Megalo)",
+      "artist": "algorhythm :>",
+      "has_synced": false,
+      "path": "select/32_SCOPOPHOBIA_(A_Cloudy_SMP_Megalo)_algorhythm.txt"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "A cloudy day (It sucks that I still miss you)",
+      "artist": "Vinh Khuat",
+      "has_synced": true,
+      "path": "select/33_A_cloudy_day_(It_sucks_that_I_still_miss_you)_Vinh_Khuat.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "The Colour Of A Cloudy Day",
+      "artist": "Shelby Lynne",
+      "has_synced": false,
+      "path": "select/34_The_Colour_Of_A_Cloudy_Day_Shelby_Lynne.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "All the Same",
+      "artist": "Does It Offend You, Yeah?",
+      "has_synced": false,
+      "path": "select/pl_01_All_the_Same_Does_It_Offend_You,_Yeah.txt"
+    }
+  ]
+}
